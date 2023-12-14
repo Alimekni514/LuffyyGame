@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Coin
+  - Snake
+  - Key
+  - Box
+  - SharpShards
+  - TreasureMap
+  - Mosquee
+  - TreeGolem
+  - Axe
+  - RetractingSpikes
+  - Treasure
+  - SacOfCoins
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - ObstacleSnake
+  - GolemBoss
+  - ObstacleGolemBoss
+  - Box-Treasure
+  - Scorpionn
+  - Fighter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1321797233
+    locked: 0
+  - name: Player
+    uniqueID: 3849671731
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1856696881
+    locked: 0
